@@ -1,0 +1,2 @@
+Scope of Work
+The Car Racing Championship project focuses on creating a browser-based racing game where players drive a car, avoid obstacles, collect coins and power-ups, and achieve high scores. The game includes Start Race and End Race functionality, score tracking, audio controls, responsive design for desktop and mobile devices, and a user-friendly racing interface.
