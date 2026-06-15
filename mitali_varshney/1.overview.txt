@@ -1,0 +1,2 @@
+Overview
+Car Racing Championship is a browser-based racing game where players drive a car, avoid obstacles and traffic vehicles, collect coins and power-ups, and achieve the highest possible score. The game features smooth controls, responsive design, score tracking, audio controls, and support for both desktop and mobile devices. Players can start the game instantly using the Start Race button without requiring login or registration.
